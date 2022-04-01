@@ -20,7 +20,7 @@ import {
 } from "../../styles/GlobalComponents";
 import { projects } from "../../constants/constants";
 
-const prefix = "aherzallah.tech";
+const prefix = "/";
 const Projects = () => (
   <Section nopadding id="projects">
     <SectionDivider />
