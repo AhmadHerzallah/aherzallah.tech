@@ -1,4 +1,4 @@
 module.export = {
-  basePath: "aherzallah.tech/images",
-  assestPrefix: "aherzallah.tech/images",
+  basePath: "/aherzallah.tech",
+  assestPrefix: "/aherzallah.tech",
 };
