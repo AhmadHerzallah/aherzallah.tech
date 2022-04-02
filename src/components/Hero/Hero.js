@@ -18,7 +18,7 @@ const Hero = (props) => (
         </SectionTitle>
         <SectionText>
           A young Palestinians who lives in Gaza, have passion in Technology,
-          Climate Changes, Mathematics and Physics
+          Climate Change, Mathematics and Physics
         </SectionText>
       </LeftSection>
     </Section>
