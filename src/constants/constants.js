@@ -2,7 +2,7 @@ export const projects = [
   {
     title: "Groover",
     description: "Know the most about your favorite artists!",
-    image: "/images/1.png",
+    image: "https://ahmadherzallah.github.io/aherzallah.tech/images/1.png",
     tags: ["React", "Firebase"],
     source: "https://github.com/AhmadHerzallah/Groover",
     visit: "https://github.com/AhmadHerzallah/Groover",
@@ -12,7 +12,7 @@ export const projects = [
     title: "PlayBag",
     description:
       "A Mobile-Application for Gamers, Investors, and Companies for eSports tournaments in-general",
-    image: "/images/2.png",
+    image: "https://ahmadherzallah.github.io/aherzallah.tech/images/2.png",
     tags: ["React Native", "Firebase"],
     source: "https://github.com/AhmadHerzallah/PlayBag",
     visit: "https://github.com/AhmadHerzallah/PlayBag",
@@ -22,7 +22,7 @@ export const projects = [
     title: "De jour",
     description:
       "A website dedicated in fashion, don't know what to wear? go to De jour!",
-    image: "/images/3.png",
+    image: "https://ahmadherzallah.github.io/aherzallah.tech/images/3.png",
     tags: ["Mongo", "Express", "React", "Node"],
     source: "https://google.com",
     visit: "https://google.com",
@@ -32,7 +32,7 @@ export const projects = [
     title: "Swift House",
     description:
       "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-    image: "/images/4.png",
+    image: "https://ahmadherzallah.github.io/aherzallah.tech/images/4.png",
     tags: ["Mongo", "Express", "React", "Node"],
     source: "https://google.com",
     visit: "https://google.com",
