@@ -31,7 +31,7 @@ export const projects = [
   {
     title: "Swift House",
     description:
-      "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+      "A web application to find near workers",
     image: "https://ahmadherzallah.github.io/aherzallah.tech/images/4.png",
     tags: ["Mongo", "Express", "React", "Node"],
     source: "https://google.com",
