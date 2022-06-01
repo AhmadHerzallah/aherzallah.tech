@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: "Groover",
-    description: "Know the most about your favorite artists!",
+    description: "Get to know the most about your favorite artists!",
     image: "https://ahmadherzallah.github.io/aherzallah.tech/images/1.png",
     tags: ["React", "Firebase"],
     source: "https://github.com/AhmadHerzallah/Groover",
