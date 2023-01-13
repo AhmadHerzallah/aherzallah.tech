@@ -9,7 +9,7 @@ import { Box, Boxes, BoxNum, BoxText } from "./AcomplishmentsStyles";
 
 const data = [
   { number: "20+", text: "Open Source Projects" },
-  { number: "1550", text: "SAT" },
+  { number: "1450", text: "SAT" },
   { number: "#1", text: "PCPC" },
   { number: "-", text: "SHIAM"},
   { number :"-", text: "Hope Fund Student"},
