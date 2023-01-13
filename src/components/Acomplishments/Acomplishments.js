@@ -9,8 +9,10 @@ import { Box, Boxes, BoxNum, BoxText } from "./AcomplishmentsStyles";
 
 const data = [
   { number: "20+", text: "Open Source Projects" },
-  { number: "-", text: "SAT" },
+  { number: "1550", text: "SAT" },
   { number: "#1", text: "PCPC" },
+  { number: "-", text: "SHIAM"},
+  { number :"-", text: "Hope Fund Student"},
 ];
 
 const Acomplishments = () => (
